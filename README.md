@@ -1,7 +1,7 @@
 # Title: The_4th_LG_Aimers_Online_Hackathon<br/>
 ## Topic: Classification Prediction of Some Specific Process Data<br/>
 ## Period: 2024.01 - 2024.02 <br/>
-## Result: 74th / 740 Teams <br/>
+## Result: (Private Score) 74th / 740 Teams <br/>
 
 ### Leader : <br/>
 Suji JEONG - Kookmin Univ_Business Administration<br/>
