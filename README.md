@@ -14,7 +14,8 @@ Yerin JEON - Korea Univ_Statistics<br/>
 ![공고1](https://github.com/user-attachments/assets/ac03b56e-8af7-450b-9cbe-714661932c32)
 
 ### Summary Preview:<br/>
-[LG AI 수료증.pdf](https://github.com/user-attachments/files/18119696/LG.AI.pdf)
+![수료](https://github.com/user-attachments/assets/3a66a45e-df83-4bc6-a72f-baa310175d5d)
+
 
 
 
